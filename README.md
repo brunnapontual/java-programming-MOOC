@@ -1,5 +1,5 @@
 # Java programming mooc.fi
 
-University of Helsinki’s massive open online course (MOOC) on object-oriented programming
+University of Helsinki’s massive open online course
 
 https://tmc.mooc.fi/
